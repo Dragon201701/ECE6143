@@ -1,13 +1,3 @@
-[Home](../sequence.md) - Model selection 
-
-# Model selection and regularization
-
-A key issue in statistical modeling is to determine the suitable complexity
-of the model to use.  More complex models can capture more of the relationship
-between the predictors and target variable.  But, using more complex models risks
-over-fitting.  We illustrate some simple model order selection techniques.
-
-* [Demo:  Polynomial order selection with cross-validation](./demo_polyfit.ipynb)
-* [Lab: Neural decoding motor cortex signals](./lab_neural_partial.ipynb) 
-* Problems: [[pdf]](./prob/prob_model_sel.pdf) [[Latex]](./prob/prob_model_sel.tex)
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d769c31fab30437fef12c8a6e73180a4deecec86ed0f59ad0ef585c55b62340
+size 636

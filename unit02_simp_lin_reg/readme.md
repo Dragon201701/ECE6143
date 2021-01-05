@@ -1,10 +1,3 @@
-[Home](../sequence.md) - Simple linear regression 
-
-# Simple Linear Regression
-
-Simple linear regression is the most basic model in machine learning
-where we fit a scalar variable `y` from another scalar variable `x` through
-a linear model.  We illustrate simple linear regression with a basic demo for 
-automobile data.  The lab then tests the concepts on a standard housing dataset.
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:87d11f5b69a6da6a8526e6c9155f847d7f27aab49d80a8f56763725b5df43710
+size 387

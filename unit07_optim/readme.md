@@ -1,10 +1,3 @@
-[Home](../sequence.md) - Numerical optimization
-
-# Unit 7:  Numerical optimization
-
-* [Demo 1:  Computing gradients](./demo1_computing_gradients.ipynb)
-* [Demo 2:  Simple gradient descent optimization](./demo2_grad_descent.ipynb)    
-* [Lab: Audio pitch detection](./lab_audio_partial.ipynb)
-* Problems [[pdf]](./prob/prob_optim.pdf) [[Latex]](./prob/prob_optim.tex)
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c899b5bcc55bbbb9b0f97ff9a18b1517e495059bb444eada76a9ce3a47de004c
+size 369

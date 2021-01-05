@@ -1,9 +1,3 @@
-[Home](../sequence.md) - Numerical optimization
-
-# Unit 8:  Support Vector Machines (SVMs)
-
-* [Demo:  MNIST digit classification](./demo_mnist_svm.ipynb)
-* [Lab:  Extended MNIST with letters](./lab_emnist_partial.ipynb)
-* Problems [[pdf]](./prob/prob_svm.pdf) [[Latex]](./hw/prob_svm.tex) 
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef4efda3e2a89a2e757fe1d75f86af4e03d7ac31ffdd46c8ca4e37bc9dadab8b
+size 292

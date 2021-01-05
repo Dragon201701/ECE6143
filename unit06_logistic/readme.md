@@ -1,8 +1,3 @@
-[Home](../sequence.md) - Logistic Regression 
-
-# Logistic Regression
-
-* [Demo:  Breast cancer diagnosis via logistic regression](./demo_breast_cancer.ipynb)
-* [Lab: Genetic analysis of Down's syndrome in mice](./lab_gene_partial.ipynb)
-* Homework [[pdf]](./prob/prob_logistic.pdf) [[Latex]](./prob/prob_logistic.tex) 
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:35870e3b157e9595306070fd33f964ed553cf2712e403cd4415c42fdefda1d6c
+size 319
